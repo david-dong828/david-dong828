@@ -10,7 +10,7 @@ I'm a Python, Java and Flutter developer and I'm starting doing open source.
 
 - 📫 How to reach me:
   
-  - ![https://www.linkedin.com/in/dong--han/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dong--han/)
 
 
 
