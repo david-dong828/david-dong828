@@ -2,11 +2,11 @@
 
 I'm a Python, Java and Flutter developer and I'm starting doing open source.
 
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 I’m currently working on Data Mining and Machine Learning.
 
 - 🌱 I’m currently finishing my last semester of a Bachelor of Computer Science degree.
   
-- ⚡ I love travelling and playing chess.
+- ⚡ I love travelling and playing chess, Chinese chess. 
 
 - 📫 How to reach me:
   
