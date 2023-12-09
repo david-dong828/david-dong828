@@ -38,9 +38,11 @@ I'm a Python, Java and Flutter developer and I'm starting doing open source.
 -----
 
 
+
 <!--
 
-[![Anurag's GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=david-dong828)](https://GitHub.com/anuraghazra/GitHub-readme-stats) 
+
+[![David's GitHub stats](https://GitHub-readme-stats.vercel.app/api?username=david-dong828)](https://GitHub.com/david-dong828/GitHub-readme-stats) 
 
 **david-dong828/david-dong828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
