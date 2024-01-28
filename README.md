@@ -4,13 +4,13 @@
 
 I'm a Python, Java and Flutter developer and I'm starting doing open source.
 
-- 🔭 I’m currently working on Data Mining and Machine Learning.
+- 🔭 I’m currently working on Data Mining, Machine Learning and Full stack Dev.
 
-- 🌱 I’m currently finishing my last semester of a Bachelor of Computer Science degree.
+- 🌱 I’m holding dual Bachelor degrees in Computer Science and Industrial Engineer.
   
-- ⚡ I love travelling and playing chess, Chinese chess.
+- ⚡ I love cooking, travelling and playing chess, the Chinese chess.
 
-- 🥅 I’m Goal Orientation
+- 🥅 I’m Goal Orientation, a Fast learner.
 
 - 📫 How to reach me:
   
@@ -22,7 +22,7 @@ I'm a Python, Java and Flutter developer and I'm starting doing open source.
  ---------
 :mobile_phone_off: Mobile Development (Flutter) <br>
 :desktop_computer: Data Mining / Machine Learning <br>
-🖥️  Backend Development <br>
+🖥️  Backend / Full Stack Development <br>
 
 
 
