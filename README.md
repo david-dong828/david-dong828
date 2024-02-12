@@ -20,9 +20,9 @@ I'm a Python, Java and Flutter developer and I'm starting doing open source.
 
  **My Skills**
  ---------
-:mobile_phone_off: Mobile Development (Flutter) <br>
 :desktop_computer: Data Mining / Machine Learning <br>
 🖥️  Backend / Full Stack Development <br>
+:mobile_phone_off: Mobile Development (Flutter) <br>
 
 
 
