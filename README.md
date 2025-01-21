@@ -2,15 +2,15 @@
 -----
 **WHO AM I ?**
 
-I'm a Python, Java and Flutter developer and I'm starting doing open source.
+I'm an enthusiastic developer with a deep passion for AI and Blockchain technology.
 
-- 🔭 I’m currently working on Data Mining, Machine Learning and Full stack Dev.
+- 🔭 I’m currently engaged in developing cutting-edge AI applications and creating robust smart contracts for decentralized solutions.
 
-- 🌱 I’m holding dual Bachelor degrees in Computer Science and Industrial Engineer.
+- 🌱 I hold dual Bachelor's degrees in Computer Science and Industrial Engineering, which provide a strong foundation for my technical pursuits.
   
-- ⚡ I love cooking, travelling and playing chess, the Chinese chess.
+- ⚡  Outside of coding, I love cooking, exploring new places, and engaging in games of strategy like Chinese chess.
 
-- 🥅 I’m Goal Orientation, a Fast learner.
+- 🥅 Goal-oriented and a quick learner, I am committed to mastering the complexities of AI and Blockchain ecosystems.
 
 - 📫 How to reach me:
   
